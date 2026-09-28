@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/tausendp/rwe/language-masters/en:/",
+    "/content/tausendp/rwe/language-masters/en/:/en/",
+    "/content/tausendp/rwe/configuration:/.helix/config.json",
+    "/content/tausendp/rwe/metadata:/metadata.json",
+    "/content/tausendp/rwe/redirects:/redirects.json",
+    "/content/tausendp/rwe/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/tausendp/rwe/",
+    "/content/dam/tausendp/rwe/"
   ]
 }
